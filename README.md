@@ -33,12 +33,3 @@ To run any of the scripts locally, ensure you have Python installed and execute 
 
 ```bash
 python3 filename.py
-
----
-
-### 🧪 Checking the Layout
-I’ve used a few specific Markdown features here:
-* **Badges:** The `![Status]` and `[![License]]` lines create those colorful icons you see on many professional repos.
-* **Code Blocks:** The "How to Run" section uses triple backticks (`` ``` ``) to make the command look like it's in a terminal.
-
-Does this structure look like it covers everything you wanted to showcase, or should we add a section for **Future Goals** where you can list the upcoming chapters like Data Structures? 🚀
