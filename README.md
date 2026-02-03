@@ -20,7 +20,7 @@ The specialization covers the fundamentals of programming using Python, includin
 * **Conditional Code**: [`c3_conditions.py`](./c3_conditions.py) — A grading tool that uses conditional logic (`if/elif/else`) to assign a letter grade based on a numeric score.
 * **Functions**: [`c4_functions.py`](./c4_functions.py) — Uses a custom function and `try/except` blocks to calculate pay, including overtime rates.
 * **Loops and Iteration**: [`c5_loops.py`](./c5_loops.py) — A loop-based program that continuously asks for numbers to identify the largest and smallest values until the user types "done".
-
+* **Strings**: [`c6_strings.py`](./c6_strings.py) — A string parsing program designed to extract and convert a specific numerical value from a string of text.
 ---
 
 ## 💡 Key Takeaways
