@@ -21,12 +21,14 @@ The specialization covers the fundamentals of programming using Python, includin
 * **Functions**: [`c4_functions.py`](./c4_functions.py) — Uses a custom function and `try/except` blocks to calculate pay, including overtime rates.
 * **Loops and Iteration**: [`c5_loops.py`](./c5_loops.py) — A loop-based program that continuously asks for numbers to identify the largest and smallest values until the user types "done".
 * **Strings**: [`c6_strings.py`](./c6_strings.py) — A string parsing program designed to extract and convert a specific numerical value from a string of text.
+* **Files**: [`c7.1_files.py`](./c7.1_files.py) — Reads a file and transforms its entire content to uppercase.[`c7.2_fiels.py`](c7.2_files.py) — Searches through mail logs to extract, convert, and average spam confidence scores.
 ---
 
 ## 💡 Key Takeaways
 * **Error Handling**: Using `try` and `except` to prevent crashes from invalid user input.
 * **Control Flow**: Implementing `while` loops and `if/elif/else` logic to create interactive programs.
 * **Functions**: Designing reusable blocks of code with the `def` keyword to simplify calculations.
+⚠️ Progress update pending: Chapter 7 – Files
 
 ---
 
