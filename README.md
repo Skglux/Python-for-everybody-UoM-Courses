@@ -22,15 +22,18 @@ The specialization covers the fundamentals of programming using Python, includin
 * **Loops and Iteration**: [`c5_loops.py`](./c5_loops.py) — A loop-based program that continuously asks for numbers to identify the largest and smallest values until the user types "done".
 * **Strings**: [`c6_strings.py`](./c6_strings.py) — A string parsing program designed to extract and convert a specific numerical value from a string of text.
 * **Files**: [`c7.1_files.py`](./c7.1_files.py) — A read file program that transforms its entire content to uppercase.  
-  [`c7.2_files.py`](./c7.2_files.py) — A read file program that searches through mail logs to extract, convert, and average spam confidence scores.
-
+  [`  c7.2_files.py`](./c7.2_files.py) — A file program that searches through mail logs to extract, convert, and average spam confidence scores.
+* **Lists**:[`c8.4_lists.py](./c8.4_lists.py) — A program that reads a file and converts its lines in to lists then it takes each word of each list and creates a new list without duplicate words and sorts the list.
+[`c8.5_lists.py](./c8.5_lists.py) — A read file program that searches for lines that start with a specific word then creates a list out of them and prints the second word and total count of lines found.
 ---
 
 ## 💡 Key Takeaways
 * **Error Handling**: Using `try` and `except` to prevent crashes from invalid user input.
 * **Control Flow**: Implementing `while` loops and `if/elif/else` logic to create interactive programs.
 * **Functions**: Designing reusable blocks of code with the `def` keyword to simplify calculations.
-⚠️ Progress update pending: Chapter 7 – Files
+* **Data Extraction**: Using string methods like `.find()` and slicing to isolate and convert specific numerical data from complex text lines.
+* **File Iteration**: Implementing loops to read through large files line-by-line and filter content using conditional checks like `.startswith()`.
+* **Collection Logic**: Utilizing Python lists to store, sort, and manage unique data sets while preventing duplicates with membership operators.
 
 ---
 
