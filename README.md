@@ -23,8 +23,8 @@ The specialization covers the fundamentals of programming using Python, includin
 * **Strings**: [`c6_strings.py`](./c6_strings.py) — A string parsing program designed to extract and convert a specific numerical value from a string of text.
 * **Files**: [`c7.1_files.py`](./c7.1_files.py) — A read file program that transforms its entire content to uppercase.  
   [`  c7.2_files.py`](./c7.2_files.py) — A file program that searches through mail logs to extract, convert, and average spam confidence scores.
-* **Lists**:[`c8.4_lists.py](./c8.4_lists.py) — A program that reads a file and converts its lines in to lists then it takes each word of each list and creates a new list without duplicate words and sorts the list.
-[`c8.5_lists.py](./c8.5_lists.py) — A read file program that searches for lines that start with a specific word then creates a list out of them and prints the second word and total count of lines found.
+* **Lists**: [`c8.4_lists.py`](./c8.4_lists.py) — A program that reads a file and converts its lines in to lists then it takes each word of each list and creates a new list without duplicate words and sorts the list.
+[`c8.5_lists.py`](./c8.5_lists.py) — A read file program that searches for lines that start with a specific word then creates a list out of them and prints the second word and total count of lines found.
 ---
 
 ## 💡 Key Takeaways
