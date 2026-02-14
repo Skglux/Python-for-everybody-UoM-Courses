@@ -38,7 +38,7 @@ Normalizes: "Python," "python!", and "PYTHON" must count as the same word.
 * **Data Extraction**: Using string methods like `.find()` and slicing to isolate and convert specific numerical data from complex text lines.
 * **File Iteration**: Implementing loops to read through large files line-by-line and filter content using conditional checks like `.startswith()`.
 * **Collection Logic**: Utilizing Python lists to store, sort, and manage unique data sets while preventing duplicates with membership operators.
-* **Dictionaries manipulation**: Implementing Decorate-Sort-Undecorate pattern to sort dictionairy items.
+* **Dictionaries manipulation**: Implementing Decorate-Sort-Undecorate pattern to sort a list of tuples.
 
 ---
 
